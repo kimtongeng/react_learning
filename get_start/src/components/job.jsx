@@ -1,6 +1,12 @@
+let job={
+    background : 'yellow',
+    color : "white"
+}
+
+
 const Job = ()=>{
     return(
-        <h1>i am IT introducer</h1>
+        <h1 style={job}>i am IT introducer</h1>
     )
 
 }

@@ -1,6 +1,6 @@
 function Greeting(){
     return(
-        <h2>Hello sir</h2>
+        <h2 style={{background:"blue",color:"red"}}>Hello sir</h2>
     )
 }
 
